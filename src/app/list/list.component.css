@@ -1,0 +1,12 @@
+#list{
+    z-index: 100000;
+    float: right;
+    position: absolute;
+    right: 1%;
+    width: fit-content;
+    height: fit-content;
+    margin: 10px;
+    padding:10px;
+    border-radius: 25px;
+    background-color: rgb(252, 252, 186);
+}
